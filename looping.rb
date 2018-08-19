@@ -1,6 +1,6 @@
 def looping
-	puts `"the levitation charm "Wingardium Leviosa"`
+	loop do 
+  puts "the levitation charm Wingardium Leviosa"
+  end 
 end
-
-looping()
 #call your method here
